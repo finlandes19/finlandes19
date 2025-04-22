@@ -29,6 +29,8 @@ Ah sou co-moderador de um grupo de leitura o [Traçando Livros](https://www.inst
 
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=fff)    ![Ubuntu](https://img.shields.io/badge/Ubuntu-35495E?style=for-the-badge&logo=ubuntu&logoColor=2CA5E0)    ![Pop! Os](https://img.shields.io/badge/Pop!_OS-48B9C7?logo=Pop%21_OS&logoColor=white&style=for-the-badge)
 
+Tenho mais familiaridade com estas distros, mas vez ou outra experimento outras como por exemplo o Fedora, Zorin OS, etc
+
 
 
 ## 📚 Estudando...
